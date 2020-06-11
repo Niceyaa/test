@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="_xiaoshipin_zanting" unicode="&#58891;" d="M295.940579 710.457778l434.440324-250.205773c85.806666-49.412297 115.324747-159.050883 65.897756-244.872241a179.312423 179.312423 0 0 0-65.001488-65.383504L296.822154-103.530113c-85.5275-49.911857-195.327708-21.040265-245.239565 64.501928A179.312423 179.312423 0 0 0 27.133566 51.318594V555.065433C27.133566 654.095728 107.415693 734.377855 206.445989 734.377855c31.413468 0 62.268604-8.257422 89.479897-23.920077z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zantingtingzhi" unicode="&#58902;" d="M735.9 831.1c-51.2 0-96-44.7-96-95.8v-702.6c0-51.1 44.8-95.8 96-95.8s96 44.7 96 95.8V735.3c0 51.1-44.8 95.8-96 95.8z m-447.8 0c-51.2 0-96-44.7-96-95.8v-702.6c0-51.1 44.8-95.8 96-95.8s96 44.7 96 95.8V735.3c-0.1 51.1-44.9 95.8-96 95.8z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
